@@ -20,14 +20,6 @@
 
 ------
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh13562-da&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh13562-da&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/yogesh-da/]
 
